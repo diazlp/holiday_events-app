@@ -5,7 +5,6 @@
 /.pnp
 .pnp.js
 note.txt
-next.config.js
 
 # testing
 /coverage
@@ -13,6 +12,7 @@ next.config.js
 # next.js
 /.next/
 /out/
+.config.js
 
 # production
 /build
