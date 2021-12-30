@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-This project was published [here](https://vercel.com/diazlp/holiday-events-app)
+This project was published [here](https://holiday-events-app.vercel.app/)
 
 ## Getting Started
 
