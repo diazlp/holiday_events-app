@@ -5,8 +5,8 @@ module.exports = (phase) => {
     return {
       env: {
         mongodb_username: "diaz",
-        mongodb_password: "xqXzdpdpXbbJMAzE",
-        mongodb_clustername: "holiday-events",
+        mongodb_password: "sdqUYEQPElQQu1Og",
+        mongodb_clustername: "holiday0",
         mongodb_database: "events-dev",
       },
     };
@@ -15,8 +15,8 @@ module.exports = (phase) => {
   return {
     env: {
       mongodb_username: "diaz",
-      mongodb_password: "xqXzdpdpXbbJMAzE",
-      mongodb_clustername: "holiday-events",
+      mongodb_password: "sdqUYEQPElQQu1Og",
+      mongodb_clustername: "holiday0",
       mongodb_database: "events",
     },
   };
